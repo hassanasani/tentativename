@@ -4,9 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Our Projects
-
-We are constantly working on innovative solutions to transform healthcare. Below, you’ll find a list of our ongoing and completed projects. Each project highlights its purpose, progress, and potential impact.
+Here are our current and past projects
 
 ---
 
