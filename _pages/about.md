@@ -26,8 +26,6 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
   <div>Founder</div>
 </div>
 
-
-
 <!-- Team Member 2 -->
 <div style="text-align: center; width: 280px; margin-bottom: 20px;">
   <img width="150px" height="150px" style="border-radius: 50%; object-fit: cover;" alt="Hassan Asani" src="https://github.com/user-attachments/assets/5303d612-8a4e-423a-86c3-5b4f6d5b8589" />
