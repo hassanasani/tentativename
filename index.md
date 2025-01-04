@@ -23,7 +23,7 @@ excerpt: "Innovating the Future of Healthcare with Agentic Systems."
 ## Our Mission
 
 At [TENTATIVE NAME], we aim to:
-- Leverage technology to create innovative healthcare solutions.
+- Implement accelerating technologies into healthcare systems.
 - Collaborate with industry leaders and institutions to make a meaningful impact.
 - Empower communities through accessible and effective tools.
 
