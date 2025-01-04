@@ -14,6 +14,8 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 
 ## Meet the Team
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 20px;">
+  
 <!-- Team Member 1 -->
 <div style="text-align: center; width: 300px;">
   <img width="180px" height="180px" style="border-radius: 50%; object-fit: cover;" alt="Tim Nguyen" src="https://github.com/user-attachments/assets/535a4be4-8ab5-44dc-ab39-854a544bd152" />
