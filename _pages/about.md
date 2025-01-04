@@ -12,27 +12,45 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 
 ---
 
+---
+layout: single
+title: "About Us"
+permalink: /about/
+---
+
+## Who We Are
+
+We are a small team of college students from the Metro Atlanta Area, dedicated to transforming the healthcare industry. Our expertise spans:
+
+- Front-end Development
+- Agentic System Orchestration
+- Graph Theory
+
+--- 
+
 ## Meet the Team
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px;">
 
-{% assign team_members = site.data.team %}
-{% for member in team_members %}
-  <div style="text-align: center; width: 200px; margin: 10px;">
-    <!-- Image -->
-    <a href="{{ member.linkedin }}" target="_blank">
-      <img src="{{ site.baseurl }}{{ member.image }}" alt="{{ member.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
-    </a>
-    <!-- Name and Details -->
-    <p style="margin: 0; font-size: 1.1em; font-weight: bold;">{{ member.name }}</p>
-    <p style="margin: 0; font-size: 0.9em;">{{ member.occupation }}</p>
-    <p style="margin: 0; font-size: 0.9em;">{{ member.position }}</p>
-  </div>
-{% endfor %}
-
+<!-- Team Member 1 -->
+<div style="text-align: center; width: 280px; margin-bottom: 20px;">
+  ![Tim Nguyen](/assets/images/person1.jpeg)  
+  [Tim Nguyen](https://www.linkedin.com/in/tim-nguyen-298b63221/)  
+  Tim Nguyen  
+  Emory University  
+  Founder
 </div>
 
+<!-- Team Member 2 -->
+<div style="text-align: center; width: 280px; margin-bottom: 20px;">
+  ![Hassan Asani](/assets/images/person2.jpeg)  
+  [Hassan Asani](https://www.linkedin.com/in/hassanasani/)  
+  Hassan Asani  
+  Georgia Tech  
+  Front-End Developer
+</div>
 
+</div>
 
 ---
 
