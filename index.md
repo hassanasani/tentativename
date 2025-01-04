@@ -8,7 +8,7 @@ classes:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: # Add Image
+  overlay_image: assets/images/coverphoto.png
   caption: "Unleashing Agentic Systems into Healthcare"
   actions:
     - label: "Explore Projects"
