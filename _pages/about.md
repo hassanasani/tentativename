@@ -1,8 +1,31 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Who We Are
+We are a small team of college students from the Metro Atlanta Area, dedicated to transforming the healthcare industry. Our expertise spans:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- **Front-end Development**
+- **Agentic System Orchestration**
+- **Graph Theory**
+
+---
+
+## What We’re Working On
+Currently, we are collaborating with:
+
+- [**Sarker Labs**](https://sarkerlab.org/)  
+- **Vital Labs**
+
+Together, we’re testing and creating innovative systems to revolutionize healthcare solutions.
+
+---
+
+## Interested to Join Us?
+Are you passionate about innovation in healthcare and cutting-edge technology? We're always looking for enthusiastic individuals to collaborate with us!
+
+### How You Can Get Involved:
+- **Front-End**: Join us as an contributor.
+- **Researchers**: Partner with us on exciting projects.
+- **Organizations**: Collaborate to bring impactful solutions to life.
