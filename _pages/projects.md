@@ -4,14 +4,14 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Here are our current and past projects
+Here's what we've worked on!
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 30px;">
 
 <!-- Example Project 1 -->
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; margin-bottom: 20px;">
+<div style="background-color: #dcdcdc; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 280px; text-align: center; margin-bottom: 20px;">
   <h3 style="color: white; font-weight: bold; font-size: 1.5em; margin-bottom: 10px;">Project Name</h3>
   <p style="color: black; font-size: 0.75em; margin: 5px 0;">
     <span style="font-weight: bold;">Date Uploaded:</span> January 4, 2025<br>
@@ -23,7 +23,7 @@ Here are our current and past projects
 </div>
 
 <!-- Example Project 2 -->
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; margin-bottom: 20px;">
+<div style="background-color: #dcdcdc; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 280px; text-align: center; margin-bottom: 20px;">
   <h3 style="color: white; font-weight: bold; font-size: 1.5em; margin-bottom: 10px;">Another Project Name</h3>
   <p style="color: black; font-size: 0.75em; margin: 5px 0;">
     <span style="font-weight: bold;">Date Uploaded:</span> December 15, 2024<br>
@@ -35,7 +35,7 @@ Here are our current and past projects
 </div>
 
 <!-- Example Project 3 -->
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 300px; text-align: center; margin-bottom: 20px;">
+<div style="background-color: #dcdcdc; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 280px; text-align: center; margin-bottom: 20px;">
   <h3 style="color: white; font-weight: bold; font-size: 1.5em; margin-bottom: 10px;">Yet Another Project</h3>
   <p style="color: black; font-size: 0.75em; margin: 5px 0;">
     <span style="font-weight: bold;">Date Uploaded:</span> November 21, 2024<br>
@@ -49,11 +49,3 @@ Here are our current and past projects
 </div>
 
 ---
-
-## Add More Projects
-
-Add links to your projects here as they become available. Each project can include:
-- **Title**
-- **Upload Date**
-- **Estimated Read Time**
-- **Description**
