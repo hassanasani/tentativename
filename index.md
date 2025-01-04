@@ -34,9 +34,9 @@ We believe in reshaping the future of healthcare through cutting-edge ideas and 
 ## Quick Links
 
 ### **Explore Our Work**
-- [Projects](/projects/): Dive into our innovative projects and cutting-edge solutions.
-- [About Us](/about/): Meet the team!
-- [Contact Us](/contact/): Get in touch with us for collaborations and inquiries.
+- [Projects](https://hassanasani.github.io/tentativename/projects/): Dive into our innovative projects and cutting-edge solutions.
+- [About Us](https://hassanasani.github.io/tentativename/about/): Meet the team!
+- [Contact Us](https://hassanasani.github.io/tentativename/contact/): Get in touch with us for collaborations and inquiries.
 
 ---
 
