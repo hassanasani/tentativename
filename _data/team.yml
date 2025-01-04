@@ -1,0 +1,17 @@
+- name: Tim Nguyen
+  occupation: Emory University
+  position: Founder
+  linkedin: https://www.linkedin.com/in/tim-nguyen-298b63221/
+  image: assets/images/person1.jpeg
+
+- name: Hassan Asani
+  occupation: Georgia Tech
+  position: Front-End Developer
+  linkedin: https://www.linkedin.com/in/hassanasani/
+  image: assets/images/person2.jpeg
+
+- name: Person 3
+  occupation: Systems Architect
+  position: AI Researcher
+  linkedin: https://linkedin.com/in/person3
+  image: assets/images/person3.jpg

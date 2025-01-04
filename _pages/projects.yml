@@ -1,0 +1,30 @@
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+---
+
+# Our Projects
+
+Here is our current and past projects.
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<!-- Project 1 Template -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; text-align: center;">
+  <!-- Project Title -->
+  <h3><a href="#project-link" style="text-decoration: none; color: #007acc;">Project Name</a></h3>
+  
+  <!-- Metadata (Date and Read Time) -->
+  <p style="font-size: 0.9em; color: #666;">
+    <strong>Date Uploaded:</strong> January 4, 2025<br>
+    <strong>Read Time:</strong> 5 minutes
+  </p>
+  
+  <!-- Project Description -->
+  <p>A brief description of this project goes here. Highlight its purpose, scope, or key outcomes. This is a great place to pique interest.</p>
+</div>
+<!-- End of Project 1 Template -->
+
+</div>

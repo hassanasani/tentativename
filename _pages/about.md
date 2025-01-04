@@ -11,14 +11,32 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 - **Graph Theory**
 
 ---
+layout: single
+title: "About Us"
+permalink: /about/
+---
 
-## What We’re Working On
-Currently, we are collaborating with:
+# Meet the Team
 
-- [**Sarker Labs**](https://sarkerlab.org/)  
-- **Vital Labs**
+Our team is comprised of dedicated individuals passionate about transforming healthcare through technology and innovation.
 
-Together, we’re testing and creating innovative systems to revolutionize healthcare solutions.
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+{% assign team_members = site.data.team %}
+{% for member in team_members %}
+<div style="text-align: center; flex: 1 0 30%; max-width: 30%; margin: 10px;">
+  <a href="{{ member.linkedin }}" target="_blank">
+    <img src="{{ member.image }}" alt="{{ member.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+  </a>
+  <p style="font-size: 0.9em; margin-top: 10px;">
+    <strong>{{ member.name }}</strong><br>
+    {{ member.occupation }}<br>
+    {{ member.position }}
+  </p>
+</div>
+{% endfor %}
+
+</div>
 
 ---
 
