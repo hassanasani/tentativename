@@ -17,16 +17,15 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px;">
 
 <!-- Team Member 1 -->
-<img style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/images/person1.jpeg" />
-<div style="text-align: center; width: 280px; margin-bottom: 20px;">
-  ![Tim Nguyen](/assets/images/person1.jpeg)  
+<img width="150px" height="150px" style="border-radius: 50%; object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/images/person1.jpeg" />
+<div style="text-align: center; width: 280px; margin-bottom: 20px;"> 
   [Tim Nguyen](https://www.linkedin.com/in/tim-nguyen-298b63221/)  
-  Tim Nguyen  
   Emory University  
   Founder
 </div>
 
 <!-- Team Member 2 -->
+
 <div style="text-align: center; width: 280px; margin-bottom: 20px;">
   ![Hassan Asani](/assets/images/person2.jpeg)  
   [Hassan Asani](https://www.linkedin.com/in/hassanasani/)  
