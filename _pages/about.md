@@ -6,7 +6,7 @@ entries_layout: grid
 ---
 
 ## Who We Are
-We are a small team of college students from the Metro Atlanta Area, dedicated to transforming the healthcare industry. Our expertise spans:
+We are a small team of college students from the Metro Atlanta Area. Our expertise spans:
 
 - **Front-end Development**
 - **Agentic System Orchestration**
