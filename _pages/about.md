@@ -11,10 +11,6 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 - **Graph Theory**
 
 ---
-layout: single
-title: "About Us"
-permalink: /about/
----
 
 # Meet the Team
 
