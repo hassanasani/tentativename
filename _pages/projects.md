@@ -23,5 +23,3 @@ Here's what we've worked on!
  </div>
 
 
-
----
