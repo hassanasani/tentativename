@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 title: "About Us"
-layout: single
+layout: collection
+entries_layout: grid
 ---
 
 ## Who We Are
