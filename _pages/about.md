@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About Us"
+layout: wide
 ---
 
 ## Who We Are
