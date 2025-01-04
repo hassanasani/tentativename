@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: collection
+entries_layout: grid
 title: "Projects"
 permalink: /projects/
 ---
