@@ -12,7 +12,7 @@ Here's what we've worked on!
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; max-width: 1200px; margin: 0 auto; padding: 20px;">
 
 <!-- Project 1 -->
-<a href="/projects/project-1/" style="text-decoration: none; color: inherit;">
+<a href="https://hassanasani.github.io/tentativename/projects/project-1" style="text-decoration: none; color: inherit;">
   <div style="background-color: #333; border-radius: 10px; padding: 20px; width: 300px; text-align: left; color: white; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="margin-top: 0; color: white;">Project Name</h3>
     <p style="font-size: 0.9em; margin-bottom: 5px;"><strong>Date Uploaded:</strong> January 4, 2025</p>
