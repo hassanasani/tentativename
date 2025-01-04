@@ -27,16 +27,15 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 </div>
 
 
+
 <!-- Team Member 2 -->
-
 <div style="text-align: center; width: 280px; margin-bottom: 20px;">
-  ![Hassan Asani](/assets/images/person2.jpeg)  
-  [Hassan Asani](https://www.linkedin.com/in/hassanasani/)  
-  Hassan Asani  
-  Georgia Tech  
-  Front-End Developer
-</div>
-
+  <img width="150px" height="150px" style="border-radius: 50%; object-fit: cover;" alt="Hassan Asani" src="[https://github.com/user-attachments/assets/535a4be4-8ab5-44dc-ab39-854a544bd152](https://github.com/user-attachments/assets/5303d612-8a4e-423a-86c3-5b4f6d5b8589)" />
+  <div>
+    <a href="https://www.linkedin.com/in/hassanasani/" style="text-decoration: none; color: inherit;">Hassan Asani</a>
+  </div>
+  <div>Georgia Tech</div>
+  <div>Front-End Developer</div>
 </div>
 
 ---
