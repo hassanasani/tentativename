@@ -7,7 +7,7 @@ entries_layout: grid
 
 ## Projects
 
-We are constantly working on innovative solutions to transform healthcare. Below, you'll find a list of our ongoing and completed projects.
+Here's what we've worked on!
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; max-width: 1200px; margin: 0 auto; padding: 20px;">
 
