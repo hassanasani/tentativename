@@ -12,7 +12,7 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 
 ---
 
-# Meet the Team
+## Meet the Team
 
 Our team is comprised of dedicated individuals passionate about transforming healthcare through technology and innovation.
 
@@ -20,19 +20,20 @@ Our team is comprised of dedicated individuals passionate about transforming hea
 
 {% assign team_members = site.data.team %}
 {% for member in team_members %}
-<div style="text-align: center; flex: 1 0 30%; max-width: 30%; margin: 10px;">
-  <a href="{{ member.linkedin }}" target="_blank">
-    <img src="{{ member.image }}" alt="{{ member.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-  </a>
-  <p style="font-size: 0.9em; margin-top: 10px;">
-    <strong>{{ member.name }}</strong><br>
-    {{ member.occupation }}<br>
-    {{ member.position }}
-  </p>
-</div>
+  <div style="text-align: center; width: 200px; margin: 10px;">
+    <!-- Image -->
+    <a href="{{ member.linkedin }}" target="_blank">
+      <img src="{{ member.image }}" alt="{{ member.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
+    </a>
+    <!-- Name and Details -->
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold;">{{ member.name }}</p>
+    <p style="margin: 0; font-size: 0.9em;">{{ member.occupation }}</p>
+    <p style="margin: 0; font-size: 0.9em;">{{ member.position }}</p>
+  </div>
 {% endfor %}
 
 </div>
+
 
 ---
 
