@@ -30,7 +30,7 @@ We are a small team of college students from the Metro Atlanta Area, dedicated t
 
 <!-- Team Member 2 -->
 <div style="text-align: center; width: 280px; margin-bottom: 20px;">
-  <img width="150px" height="150px" style="border-radius: 50%; object-fit: cover;" alt="Hassan Asani" src="[https://github.com/user-attachments/assets/535a4be4-8ab5-44dc-ab39-854a544bd152](https://github.com/user-attachments/assets/5303d612-8a4e-423a-86c3-5b4f6d5b8589)" />
+  <img width="150px" height="150px" style="border-radius: 50%; object-fit: cover;" alt="Hassan Asani" src="https://github.com/user-attachments/assets/5303d612-8a4e-423a-86c3-5b4f6d5b8589" />
   <div>
     <a href="https://www.linkedin.com/in/hassanasani/" style="text-decoration: none; color: inherit;">Hassan Asani</a>
   </div>
