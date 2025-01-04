@@ -28,8 +28,4 @@ Are you passionate about innovation in healthcare and cutting-edge technology? W
 ### How You Can Get Involved:
 - **Front-End**: Join us as an contributor.
 - **Researchers**: Partner with us on exciting projects.
-<<<<<<< HEAD
 - **Organizations**: Collaborate to bring impactful solutions to life.
-=======
-- **Organizations**: Collaborate to bring impactful solutions to life.
->>>>>>> 6cd00149b4c6106eaf4adafb2bc4b38b47b8dbb0

@@ -1,12 +1,7 @@
 main:
 
-  - title: "Our Mission"
-    url: /mission/
   - title: "About Us"
     url: /about/
   - title: "Contact"
-<<<<<<< HEAD
     url: /contact/
-=======
-    url: /contact/
->>>>>>> 6cd00149b4c6106eaf4adafb2bc4b38b47b8dbb0
+
