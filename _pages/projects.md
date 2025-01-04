@@ -6,7 +6,7 @@ layout: single
 
 # Our Projects
 
-Here is our current and past projects.
+Here are our current and past projects
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
