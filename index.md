@@ -8,5 +8,5 @@ classes:
   - landing
   - dark-theme
 
-author_profile: false
+author_profile: true
 ---
